@@ -1,7 +1,7 @@
 
 - 🔭 A procura de um estágio na área de TI.
 - 🌱 Cursando 1º período de Análise e Desenvolvimento de Sistemas.
-- 💻 No momento aprendendo Python e JS.
+- 💻 No momento aprendendo C# e Python.
 - 🔎 Áreas de maior interesse: Desenvolvimento de Software e Jogos.
 - 📚 Idiomas: Ingles intermediário / Estudando japonês.
 - ⚡ Fun fact: Apaixonado por carros, música e jogos. 🚗🎮🎸
