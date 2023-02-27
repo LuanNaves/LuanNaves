@@ -1,3 +1,7 @@
+<div align="center">
+Olá! Esse é o meu GitHub!
+<h1> Meu nome é Luan 😎👍 <h1>
+</div>
 
 - 🔭 A procura de um estágio na área de TI.
 - 🌱 Cursando 1º período de Análise e Desenvolvimento de Sistemas.
