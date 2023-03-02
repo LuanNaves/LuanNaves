@@ -1,5 +1,5 @@
 <div align="center">
-Olá! Esse é o meu GitHub!
+Opa! Esse é o meu GitHub. Seja bem vindo!
 <h1> Meu nome é Luan  (•◡•) 👍 <h1>
 </div>
 
@@ -22,6 +22,7 @@ Olá! Esse é o meu GitHub!
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  <img align="center" alt="C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
