@@ -4,7 +4,7 @@ Opa! Esse é o meu GitHub. Seja bem vindo!
 </div>
 
 - 🔭 A procura de um estágio na área de TI.
-- 🌱 Cursando 1º período de Análise e Desenvolvimento de Sistemas.
+- 🌱 Cursando 2º período de Análise e Desenvolvimento de Sistemas.
 - 💻 No momento aprendendo C# e Python.
 - 🔎 Áreas de maior interesse: Desenvolvimento de Software e Jogos.
 - 📚 Idiomas: Ingles intermediário / Estudando japonês.
