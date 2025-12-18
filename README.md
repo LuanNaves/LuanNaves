@@ -3,10 +3,10 @@ Opa! Esse é o meu GitHub. Seja bem vindo!
 <h1> Meu nome é Luan  (•◡•) 👍 </h1>
 </div>
 
-- 🔭 A procura de uma vaga na área de TI.
-- 🌱 Cursando 5º período de Análise e Desenvolvimento de Sistemas.
+- 🔭 A procura de uma vaga na área de Desenvolvimento de Jogos/Apps/Web.
+- 🌱 Foramdo em Análise e Desenvolvimento de Sistemas.
 - 💻 No momento aprendendo C#, Javascript e Godot (GDScript).
-- 🔎 Áreas de maior interesse: Desenvolvimento de Software, Web e Jogos .
+- 🔎 Áreas de maior interesse: Desenvolvimento de Jogos.
 - 📚 Idiomas: Ingles intermediário / Estudando japonês.
 - ⚡ Fun fact: Apaixonado por carros, música e jogos. 🚗🎮🎸
 
